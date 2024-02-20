@@ -1,16 +1,19 @@
-#coolid {
+#second-id {
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
-#coolerid {
+#fourth-id {
     background-color: rgb(144, 238, 144);
-    font-size: 24px;
     font-weight: bold;
 }
 
-.test {
+.odd-elements {
     background-color: rgb(240, 128, 128);
     font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
 }
