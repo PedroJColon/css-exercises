@@ -22,6 +22,19 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 }
 
+.content-container {
+
+}
+
+.header-container {
+
+}
+
+.header {
+  font-size: large;
+  font-weight: bold;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
