@@ -48,18 +48,14 @@ a {
 .footer {
   display: flex;
   justify-content: space-between;
-  margin-top: auto;
   align-items: center;
   background-color: #eee;
   gap: 6px;
 }
 
 .space-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 50px;
-  height: 500px;
+  height: 20px;
+  margin-bottom: 26px;
 }
 
 .content {
@@ -67,7 +63,8 @@ a {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  margin-bottom: 16px;
+  margin-top: 260px;
+  margin-bottom: 260px;
 }
 
 .left-links {
